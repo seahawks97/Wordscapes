@@ -40,6 +40,9 @@ def main():
                 str_out += l
             print(str_out)
 
+    # Keep the window up to view answers
+    input('Press any button to quit.')
+
 
 def get_len():
     """
